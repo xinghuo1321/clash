@@ -1,3 +1,27 @@
+#为Tradingview和Binancei定制Domain/IpCIDR,仅供金融交易使用
+#tradingview
+IP-CIDR,45.135.231.233/32,no-resolve
+IP-CIDR,142.250.198.78/32,no-resolve
+IP-CIDR,13.35.166.90/32,no-resolve
+IP-CIDR,23.106.253.71/32,no-resolve
+IP-CIDR,192.108.254.148/32,no-resolve
+IP-CIDR,104.238.216.198/32,no-resolve
+IP-CIDR,23.106.253.71/32,no-resolve
+IP-CIDR,18.238.217.7/32,no-resolve
+IP-CIDR,92.223.46.203/32,no-resolve
+IP-CIDR,142.250.196.200/32,no-resolve
+IP-CIDR,52.39.81.40/32,no-resolve
+IP-CIDR,142.250.196.206/32,no-resolve
+IP-CIDR,142.250.198.67/32,no-resolve
+IP-CIDR,3.169.137.11/32,no-resolve
+IP-CIDR,3.169.55.50/32,no-resolve
+IP-CIDR,3.169.55.128/32,no-resolve
+IP-CIDR,52.39.81.40/32,no-resolve
+IP-CIDR,3.169.55.52/32,no-resolve
+IP-CIDR,23.106.253.71/32,no-resolve
+IP-CIDR,3.169.55.73/32,no-resolve
+#binance
+DOMAIN-SUFFIX,binance.com
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
