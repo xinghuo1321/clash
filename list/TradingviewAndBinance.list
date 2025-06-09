@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,tradingview.com	
 #tradingview-ip
 IP-CIDR,92.223.46.146/32,no-resolve
 IP-CIDR,45.135.231.52/32,no-resolve
@@ -22,3 +23,4 @@ IP-CIDR,104.18.34.2/32,no-resolve
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,binance.com
